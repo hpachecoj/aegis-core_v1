@@ -1,4 +1,5 @@
-# SISTEMA OPERACIONAL COM IA
+![Logo Secure Auth API](https://github.com/hpachecoj/aegis-core_v1/blob/main/icon/logo-aegis-kernel.png)
+# Aegis Kernel
 
 
 # ESTAPAS DE DESENVOLVIMENTO
